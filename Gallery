@@ -1,17 +1,18 @@
-<html>
+<!DOCTYPE html>
 <head> Hairstyle Gallery </head>
 
-
+<main>
 <body>
   <div class="grid">
     <div class="Long Hair Style">
-      <image />
+      <image href='http://www.gettyimages.fr/detail/876959140' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'Ooa2c4kZSrR-scAJAvHA0w',sig:'OofFtR-pVf2-aO8S18JEwUj96BwfLR-BFgHgjk_wl04=',w:'509px',h:'339px',items:'876959140',caption: true ,tld:'fr',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>/>
+      
       <h2>Long Hair A</h2>
       <p>Long Hair Description</p>
       </div>
       
     <div class="Long Hair Style">
-      <image />
+      <a id='QtC11BdfRA9hOuLdPmsrmA' class='gie-single' href='http://www.gettyimages.fr/detail/504339476' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'QtC11BdfRA9hOuLdPmsrmA',sig:'UYkpPuYYURN5ZDfXkkvDc5jIeGgxcp1aX571dflQd-k=',w:'509px',h:'339px',items:'504339476',caption: true ,tld:'fr',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>
       <h2>Long Hair B</h2>
       <p>Long Hair Description</p>
       </div>
@@ -41,6 +42,6 @@
       </div>
   </div>
 </body>
-
+</main>
 
 </html>
