@@ -1,0 +1,46 @@
+<html>
+<head> Hairstyle Gallery </head>
+
+
+<body>
+  <div class="grid">
+    <div class="Long Hair Style">
+      <image />
+      <h2>Long Hair A</h2>
+      <p>Long Hair Description</p>
+      </div>
+      
+    <div class="Long Hair Style">
+      <image />
+      <h2>Long Hair B</h2>
+      <p>Long Hair Description</p>
+      </div>
+      
+    <div class="Mid-Long Hair Style">
+      <image />
+      <h2>Mid-Long Hair 1</h2>
+      <p>Mid-Long Hair Description</p>
+      </div>
+      
+    <div class="Mid-Long Hair Style">
+      <image />
+      <h2> Mid-Long Hair 2</h2>
+      <p>Mid-Long Hair Description</p>
+      </div>
+      
+    <div class="Short Hair Style">
+      <image />
+      <h2>Short Hair Style 1</h2>
+      <p>Short Hair Description</p>
+      </div>
+      
+    <div class="Short Hair Style" 
+      <image />
+      <h2>Short Hair Style 2
+      <p>Shoert Hair Description</p>
+      </div>
+  </div>
+</body>
+
+
+</html>
