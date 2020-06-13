@@ -177,7 +177,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 #photos img {
-    width:100%;
+    width:110%;
     height:auto;
     margin:4.5% 0px;
     transition:0.4s ease-in-out;
@@ -378,4 +378,4 @@ button:focus {
     #navigation a {
         color:#000;
     }
-}
+
